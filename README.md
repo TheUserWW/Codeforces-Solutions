@@ -1,4 +1,4 @@
-# Codeforces-Solutions
+# Solutions
 
 Topics:
 [Dynamic Programming](./Topics/DynamicProgramming/)
